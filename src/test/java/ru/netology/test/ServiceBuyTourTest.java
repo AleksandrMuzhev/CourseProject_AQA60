@@ -65,7 +65,7 @@ public class ServiceBuyTourTest {
         pageTour.setCardUser(DataHelper.getUser());
         pageTour.setCardCVC(DataHelper.getCvc());
         pageTour.clickContinueButton();
-        pageTour.messageSuccess();
+        pageTour.messageError();
         assertEquals("DECLINED", DataSql.findPayStatus());
     }
 
@@ -79,7 +79,7 @@ public class ServiceBuyTourTest {
         pageTour.setCardUser(DataHelper.getUser());
         pageTour.setCardCVC(DataHelper.getCvc());
         pageTour.clickContinueButton();
-        pageTour.messageSuccess();
+        pageTour.messageError();
         assertEquals("DECLINED", DataSql.findCreditStatus());
     }
 
