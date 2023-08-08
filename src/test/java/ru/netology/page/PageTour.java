@@ -26,13 +26,11 @@ public class PageTour {
     private SelenideElement requiredField = $$(".input__inner span.input__sub").find(exactText("Поле обязательно для заполнения"));
 
     public void buyWithCash() {
-        open("http://localhost:8080/");
         buyButton.click();
         payCard.shouldBe(visible);
     }
 
     public void buyInCredit() {
-        open("http://localhost:8080/");
         buyCreditButton.click();
         payCreditCard.shouldBe(visible);
     }

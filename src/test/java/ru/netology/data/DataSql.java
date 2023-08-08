@@ -6,9 +6,9 @@ import org.apache.commons.dbutils.handlers.ScalarHandler;
 import java.sql.*;
 
 public class DataSql {
-    private static final String url = "jdbc:mysql://localhost:3306/app";
-    private static final String user = "app";
-    private static final String password = "pass";
+    private static final String url = System.getProperty("db.url");
+    private static final String user = System.getProperty("db.user");
+    private static final String password = System.getProperty("db.password");
 
     public static void clearTables() {
         String deleteOrderEntity = "DELETE FROM order_entity";
