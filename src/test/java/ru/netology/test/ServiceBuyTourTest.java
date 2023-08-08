@@ -140,7 +140,7 @@ public class ServiceBuyTourTest {
     }
 
     @Test
-    @DisplayName("Оплата тура карте с истекшим сроком действия (месяц)")
+    @DisplayName("Оплата тура по карте с истекшим сроком действия (месяц)")
     public void testCashInvalidMonthCard() {
         pageTour.buyWithCash();
         pageTour.setCardNumber(DataHelper.getCardNumberApproved());
