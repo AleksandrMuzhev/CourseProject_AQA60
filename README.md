@@ -1,9 +1,9 @@
 # Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»
 [Задание](https://github.com/netology-code/aqa-qamid-diplom)
 ## Документы
-* [План автоматизации]()
-* [Отчёт по итогам тестирования]()
-* [Отчёт об автоматизации]()
+* [План автоматизации](https://github.com/AleksandrMuzhev/CourseProject_AQA60/blob/main/documents/Plan.md)
+* [Отчёт по итогам тестирования](https://github.com/AleksandrMuzhev/CourseProject_AQA60/blob/main/documents/Report.md)
+* [Отчёт об автоматизации](https://github.com/AleksandrMuzhev/CourseProject_AQA60/blob/main/documents/Summary.md)
 
 
 ## Описание приложения

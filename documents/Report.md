@@ -8,11 +8,11 @@
 
 Всего было выполнено 36 тест-кейсов, охватывающих различные сценарии использования приложения.
 
-![Allure-Report](https://4.downloader.disk.yandex.ru/preview/9451c8a6e4e000b1060afbd5dea87712d94e99355baec460b1deec3e88c297b9/inf/4kW9oXH7wcp5ySdJpmwRModAGWSfLlk_0_jnwDjwcoxQ7Y-dRuJOQiClNm8QBc5Xivl_QYeyEaPNrogJKi0jhQ%3D%3D?uid=359104740&filename=img-2023-08-08-11-32-10.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=359104740&tknv=v2&size=2486x1366)
+![Allure-Report](img_2.png)
 
 ## 3. Процент успешных и неуспешных тест-кейсов:
 
-![ОтчетAllure](https://1.downloader.disk.yandex.ru/preview/c816254e4c17fd4ff42f5708f395769cf2f4af2b59abc74ae811ec4f8baa0e26/inf/So3AqrfwXeG8NSjFO5afcipLRn0FEvhALWFLWij7r4IVYsLRHrLMwD5TCiOQPqO5v9aJ4wTVm7-Uii4WV17L-Q%3D%3D?uid=359104740&filename=img-2023-08-08-11-34-12.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=359104740&tknv=v2&size=2486x1366)
+![ОтчетAllure](img_1.png)
 
 Из общего числа выполненных тестов 28 завершились успешно, что составляет приблизительно 77% от общего количества тест-кейсов. 8 тестов завершились с ошибками, что составляет приблизительно 23% от общего количества тест-кейсов.
 
